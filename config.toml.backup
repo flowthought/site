@@ -1,0 +1,8 @@
+languageCode = "en-us"
+title = "Kalpak Tapas"
+baseURL = "http://kalpaktapas.com/"
+theme = "hugo-tranquilpeak-theme"
+buildDrafts = true
+
+[params]
+  dateFormat = "1 January 2017"
