@@ -30,4 +30,4 @@ I do not need the air conditioner any more.
 
 ----------------------------------------------------
 
-Meta: Something that came off the top of my head one day last month when it was raining outside one night and I couldn't sleep. A dormer is a structural element of a building that protrudes from the plane of a sloping roof surface, usually having a window. Since I was standing in my balcony, I decided to abuse the meaning a little.
+Meta: Something off the top of my head one day last month when it was raining outside one night and I couldn't sleep. A dormer is a structural element of a building that protrudes from the plane of a sloping roof surface, usually having a window. Since I was standing in my balcony, I decided to abuse the meaning a little.

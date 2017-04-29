@@ -1,7 +1,7 @@
 languageCode = "en-us"
 title = "Kalpak Tapas"
-baseURL = "http://kalpaktapas.com/"
-theme = "hugo-tranquilpeak-theme"
+baseURL = "http://www.kalpaktapas.com/"
+theme = "tranquilpeak"
 buildDrafts = true
 
 [params]
