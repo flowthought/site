@@ -1,0 +1,6 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:flowthought/flowthought.github.io
+[submodule "themes/tranquilpeak"]
+	path = themes/tranquilpeak
+	url = git@github.com:kakawait/hugo-tranquilpeak-theme
