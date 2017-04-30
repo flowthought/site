@@ -5,10 +5,9 @@ title = "Ruminations on a Dormer"
 tags = ["ruminations"]
 
 +++
-Something that came off the top of my head when it was raining outside one night and I couldn’t sleep.
-<!--more-->
 
 It is now close to 3.30 and I'm still not over the sugar rush. Having slept most of the day, I've never been more awake.
+<!--more-->
 
 It's raining like crazy outside. The blackness of the night is alive by the sounds of pounding drops. All night watchmen have run into shelter and there's not a single soul visible.
 

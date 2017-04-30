@@ -15,9 +15,9 @@
 baseurl = "http://www.kalpaktapas.com"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Hugo tranquilpeak theme"
+title = "Kalpak Tapas"
 theme = "tranquilpeak"
-disqusShortname = "hugo-tranquilpeak-theme"
+# disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
 paginate = 7
 canonifyurls = true
@@ -114,7 +114,7 @@ canonifyurls = true
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  # description = "Hugo tranquilpeak theme demo"
+  description = "Kalpak Tapas"
 
   # Customization
   # Define the behavior of the sidebar
