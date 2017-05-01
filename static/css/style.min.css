@@ -1802,7 +1802,7 @@ figure.highlight .gutter {
 }
 .caption {
     display: block;
-    font-family: Merriweather, serif;
+    font-family: 'Libre Baskerville', serif;
     font-size: 1.3rem;
     color: #81929d;
     text-align: center;
@@ -2328,13 +2328,25 @@ a.fancybox {
 .post .post-meta a {
     color: #9eabb3
 }
-.post .post-content {
+/*.post .post-content {
     text-rendering: optimizelegibility;
     letter-spacing: -.3px;
     font-family: Merriweather, serif;
     color: #5d686f;
     margin-top: 20px;
     font-weight: 400;
+    overflow: hidden;
+    -webkit-hypens: auto;
+    -moz-hypens: auto;
+    hypens: auto
+}*/
+.post .post-content {
+    text-rendering: optimizelegibility;
+    /*letter-spacing: -.3px;*/
+    font-family: 'Libre Baskerville', serif;
+    color: #2b2b2b;
+    margin-top: 20px;
+    font-weight: 500;
     overflow: hidden;
     -webkit-hypens: auto;
     -moz-hypens: auto;
@@ -2449,7 +2461,8 @@ a.fancybox {
 .post-header .post-title {
     margin: 0;
     word-break: initial;
-    overflow: hidden
+    overflow: hidden;
+    letter-spacing: normal
 }
 .post-header-cover {
     display: table;
@@ -2640,7 +2653,8 @@ a.fancybox {
 .postShorten .postShorten-header .postShorten-title {
     margin: 0;
     word-break: initial;
-    overflow: hidden
+    overflow: hidden;
+    letter-spacing: normal
 }
 .postShorten .postShorten-meta {
     line-height: 1.5em
@@ -2664,7 +2678,7 @@ a.fancybox {
 .postShorten .postShorten-excerpt {
     text-rendering: optimizelegibility;
     letter-spacing: -.3px;
-    font-family: Merriweather, serif;
+    font-family: 'Libre Baskerville, serif;
     color: #5d686f;
     font-weight: 400;
     overflow: hidden;
